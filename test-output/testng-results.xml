@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-20T12:29:17 IST" name="Suite" finished-at="2024-12-20T12:29:23 IST" duration-ms="6371">
+    <groups>
+    </groups>
+    <test started-at="2024-12-20T12:29:17 IST" name="Test" finished-at="2024-12-20T12:29:23 IST" duration-ms="6371">
+      <class name="Basic.Lunch">
+        <test-method signature="lunchAndUrl()[pri:0, instance:Basic.Lunch@77c2494c]" started-at="2024-12-20T12:29:17 IST" name="lunchAndUrl" finished-at="2024-12-20T12:29:23 IST" duration-ms="6314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lunchAndUrl -->
+      </class> <!-- Basic.Lunch -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
